@@ -203,4 +203,4 @@ matches and a separate one for private testing.
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>valheim-multi-tool-pack · Updated 2026-10-29 · Shared under the MIT License</sub></p>
+<p align="center"><sub>valheim-multi-tool-pack · Updated 2026-10-30 · Shared under the MIT License</sub></p>
